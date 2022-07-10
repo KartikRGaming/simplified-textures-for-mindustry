@@ -2,6 +2,7 @@ name: "simplified-textures"
 displayName: "Simplified Textures"
 author: Kart1k
 description: "A mod which overrides the original 32X32 textures and gives you simple 16X16 ones\n(beta)"
-version: "0.01"
+version: "0.0.2"
 minGameVersion: "110"
-hidden: false
+hidden: true
+repo: "KartikRGaming/simplified-textures-for-mindustry"
